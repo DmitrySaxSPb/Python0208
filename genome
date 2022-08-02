@@ -15,3 +15,4 @@ for i in genome:
     s += 1
 print(c / s * 100)
 
+
